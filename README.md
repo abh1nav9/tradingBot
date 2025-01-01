@@ -73,4 +73,4 @@ Get Latest Quote:
 
 **Github:** `https://www.github.com/abh1nav9`
 
-**Leetcode:** `https://www.leetcode.com/u/iabhinavgautam`
+**Leetcode:** `https://www.leetcode.com/u/abhinavgautam9`
